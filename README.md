@@ -4,11 +4,11 @@
   <img src="https://komarev.com/ghpvc/?username=Pramugdha08&label=Profile%20views&color=0e75b6&style=flat" alt="Pramugdha08" /> 
 </p>
 
-| What I Do 💻                                                                                                   | Tools I Use 🛠️                                                                                             |
-| -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| 🎨 I design intuitive and beautiful user interfaces in Figma.                                                                                                       |
-| 👨‍💻 I build responsive front-end applications that bring those designs to life.                                  | ⚙️ I also work with **Java**, **Python**, and **DevC++** for version control.                                             |
-| 🌐 I am passionate about web performance and creating accessible products.                                                                                                          |
+What I Do 💻                                                                                                                                                                                               |
+-------------------------------------------------------------------------------------------------------------- 
+🎨 I design intuitive and beautiful user interfaces in Figma.                                                                                                       
+👨‍💻 I build responsive front-end applications that bring those designs to life.                                                                               
+🌐 I am passionate about web performance and creating accessible products.                                                                                                          
 
 ---
 
